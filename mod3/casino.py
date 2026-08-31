@@ -41,4 +41,4 @@ while True:
         print(f'Noppa 1 on {noppa1} ja Noppa 2 oli {noppa2}')
 
 
-    time.sleep(0.5)
+    time.sleep(0.1)
